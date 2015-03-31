@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='HitlerWasOkIGuess',
       version='1.0',
       description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
+      author='Martin Nagy',
+      author_email='nagy.martin@gmail.com',
       url='http://www.python.org/sigs/distutils-sig/',
 #      install_requires=['Django>=1.3'],
      )
